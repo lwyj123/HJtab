@@ -1,0 +1,33 @@
+{
+  "devDependencies": {
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {},
+  "name": "hjevent",
+  "description": "a wheel of EventEmitter use es6 (HJproject)",
+  "version": "0.0.1",
+  "main": "HJtab.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwyj123/HJtab.git"
+  },
+  "keywords": [
+    "tab",
+    "es6"
+  ],
+  "author": "lwyj123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwyj123/HJtab/issues"
+  },
+  "homepage": "https://github.com/lwyj123/HJtab#readme"
+}
